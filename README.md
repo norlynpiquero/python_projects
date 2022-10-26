@@ -2,7 +2,7 @@
 
 These contains all the exercises and projects I did in learning the basics of Python using the free resources online; Udemy and YouTube.
 
-Project_1:
+<h1>Project_1:</h1>
 This is a guessing game where you ask the user to input a number between 1 to 50 and the computer will generate a random number between those numbers. The program will output a result according to the user's input.
 
 Project_2 (*project):
