@@ -5,25 +5,25 @@ These contains all the exercises and projects I did in learning the basics of Py
 <h1>Project_1:</h1>
 This is a guessing game where you ask the user to input a number between 1 to 50 and the computer will generate a random number between those numbers. The program will output a result according to the user's input.
 
-Project_2 (*project):
+<h1>Project_2 (*project):</h1>
 This is a fortune telling game where you ask the user to input a color and number. The chosen color and number have corresponding meaning which the computer will return as an output.
 
-Project_3 (project_3):
+<h1>Project_3 (project_3):</h1>
 This program will give you your zodiac sign. It will ask for your year, month and date of birth.
 
-exercise_1: Variables
+<h1>exercise_1: Variables</h1>
 1. Create a variable called break and assign it a value 5. See what happens and find out the reason behind the behavior that you see.
 2. Create two variables. One to store your birth year and another one to store current year. Now calculate your age using these two variables
 3. Store your first, middle and last name in three different variables and then print your full name using these variables
 4. Answer which of these are invalid variable names: _nation 1record record1 record_one record-one record^one continue
 
-exercise_2: Numbers
+<h1>exercise_2: Numbers</h1>
 1. You have a football field that is 92 meter long and 48.8 meter wide. Find out total area using python and print it.
 2. You bought 9 packets of potato chips from a store. Each packet costs 1.49 dollar and you gave shopkeeper 20 dollar. Find out using python, how many dollars is the shopkeeper going to give you back?
 3. You want to replace tiles in your bathroom which is exactly square and 5.5 feet is its length. If tiles cost 500 rs per square feet, how much will be the total cost to replace all tiles. Calculate and print the cost using python (Hint: Use power operator ** to find area of a square)
 4. Print binary representation of number 17
 
-exercise_3: String
+<h1>exercise_3: String</h1>
 1. Create 3 variables to store street, city and country, now create address variable to
 store entire address. Use two ways of creating this variable, one using + operator and the other using f-string.
 Now Print the address in such a way that the street, city and country prints in a separate line
@@ -37,7 +37,7 @@ wrong statement, the correct statement is 'maine 10 samosa khaye'.
 Replace incorrect words in original strong with new ones and print the new string.
 Also try to do this in one line.
 
-exercise_4: Lists
+<h1>exercise_4: Lists</h1>
 1. Let us say your expense for every month are listed below,
 	1. January -  2200
  	2. February - 2350
@@ -71,7 +71,7 @@ Using this find out,
        Do that with one line of code.
     5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 
-exercise_5: If condition
+<h1>exercise_5: If condition</h1>
 1. Using following list of cities per country,
     ```
     india = ["mumbai", "banglore", "chennai", "delhi"]
@@ -85,7 +85,7 @@ exercise_5: If condition
     2. If it is below 80 to 100 range then print that sugar is low
     3. If it is above 100 then print that it is high otherwise print that it is normal
    
- exercise_6: Loop
+<h1>exercise_6: Loop</h1>
  1. After flipping a coin 10 times you got this result,
 ```
 result = ["heads","tails","tails","heads","tails","heads","heads","tails","tails","tails"]
@@ -116,7 +116,7 @@ found then it should print that as well.
 *****
 ```
 
-exercise_7: Functions
+<h1>exercise_7: Functions</h1>
 1. Write a function called calculate_area that takes base and height as an input and returns and area of a triangle. Equation of an area of a triangle is,
 ```
 area = (1/2)*base*height
@@ -143,4 +143,5 @@ if input is 4 then it should print
 ```
 Basically number of lines it prints is equal to that number. (Hint: you need to use two for loops)
 
-exercise_8, exercise_8.1, exercise_8.2: These are about reading and manipulating the data give. The problems/questions can be read on each exercises.
+<h1>exercise_8, exercise_8.1, exercise_8.2:</h1>
+These are about reading and manipulating the data give. The problems/questions can be read on each exercises.
